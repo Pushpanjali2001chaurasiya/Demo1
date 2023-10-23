@@ -1,0 +1,245 @@
+﻿ID,Year,Country,Category,Product,Qty,UnitPrice,TotalPrice
+ID07351,2023,India,Bars,Carrot,33,1.77,$58.41
+ID07352,2023,India,Crackers,Whole Wheat,87,3.49,$303.63
+ID07353,2023,Nepal,Cookies,Chocolate Chip,58,1.87,$108.46
+ID07354,2023,New York,Cookies,Chocolate Chip,82,1.87,$153.34
+ID07355,2023,India,Cookies,Arrowroot,38,2.18,$82.84
+ID07356,2023,India,Bars,Carrot,54,1.77,$95.58
+ID07357,2023,India,Crackers,Whole Wheat,149,3.49,$520.01
+ID07358,2023,Nepal,Bars,Carrot,51,1.77,$90.27
+ID07359,2023,New York,Bars,Carrot,100,1.77,$177.00
+ID07360,2023,New York,Snacks,Potato Chips,28,1.35,$37.80
+ID07361,2023,India,Cookies,Arrowroot,36,2.18,$78.48
+ID07362,2023,India,Cookies,Chocolate Chip,31,1.87,$57.97
+ID07363,2023,India,Crackers,Whole Wheat,28,3.49,$97.72
+ID07364,2023,Nepal,Bars,Carrot,44,1.77,$77.88
+ID07365,2023,New York,Bars,Carrot,23,1.77,$40.71
+ID07366,2023,New York,Snacks,Potato Chips,27,1.35,$36.45
+ID07367,2023,India,Cookies,Arrowroot,43,2.18,$93.74
+ID07368,2023,India,Cookies,Oatmeal Raisin,123,2.84,$349.32
+ID07369,2023,Nepal,Bars,Bran,42,1.87,$78.54
+ID07370,2023,Nepal,Cookies,Oatmeal Raisin,33,2.84,$93.72
+ID07371,2023,New York,Cookies,Chocolate Chip,85,1.87,$158.95
+ID07372,2023,Russia,Cookies,Oatmeal Raisin,30,2.84,$85.20
+ID07373,2023,India,Bars,Carrot,61,1.77,$107.97
+ID07374,2023,India,Crackers,Whole Wheat,40,3.49,$139.60
+ID07375,2022,Nepal,Cookies,Chocolate Chip,86,1.87,$160.82
+ID07376,2022,New York,Bars,Carrot,38,1.77,$67.26
+ID07377,2022,New York,Snacks,Potato Chips,68,1.68,$114.24
+ID07378,2022,Russia,Cookies,Chocolate Chip,39,1.87,$72.93
+ID07379,2022,India,Bars,Bran,103,1.87,$192.61
+ID07380,2022,India,Cookies,Oatmeal Raisin,193,2.84,$548.12
+ID07381,2022,Nepal,Bars,Carrot,58,1.77,$102.66
+ID07382,2022,Nepal,Snacks,Potato Chips,68,1.68,$114.24
+ID07383,2022,New York,Bars,Carrot,91,1.77,$161.07
+ID07384,2022,New York,Crackers,Whole Wheat,23,3.49,$80.27
+ID07385,2022,Russia,Snacks,Potato Chips,28,1.68,$47.04
+ID07386,2022,India,Bars,Carrot,48,1.77,$84.96
+ID07387,2022,India,Snacks,Potato Chips,134,1.68,$225.12
+ID07388,2022,Nepal,Bars,Carrot,20,1.77,$35.40
+ID07389,2022,New York,Bars,Carrot,53,1.77,$93.81
+ID07390,2022,New York,Snacks,Potato Chips,64,1.68,$107.52
+ID07391,2022,Russia,Cookies,Chocolate Chip,63,1.87,$117.81
+ID07392,2022,India,Bars,Bran,105,1.87,$196.35
+ID07393,2022,India,Cookies,Oatmeal Raisin,138,2.84,$391.92
+ID07394,2022,Nepal,Bars,Carrot,25,1.77,$44.25
+ID07395,2022,Nepal,Crackers,Whole Wheat,21,3.49,$73.29
+ID07396,2022,New York,Bars,Carrot,61,1.77,$107.97
+ID07397,2022,New York,Snacks,Potato Chips,49,1.68,$82.32
+ID07398,2022,Russia,Cookies,Chocolate Chip,55,1.87,$102.85
+ID07399,2022,India,Cookies,Arrowroot,27,2.18,$58.86
+ID07400,2022,India,Bars,Carrot,58,1.77,$102.66
+ID07401,2022,India,Crackers,Whole Wheat,33,3.49,$115.17
+ID07402,2022,Nepal,Cookies,Oatmeal Raisin,288,2.84,$817.92
+ID07403,2022,New York,Cookies,Chocolate Chip,76,1.87,$142.12
+ID07404,2022,Russia,Bars,Carrot,42,1.77,$74.34
+ID07405,2022,Russia,Crackers,Whole Wheat,20,3.49,$69.80
+ID07406,2022,India,Bars,Carrot,75,1.77,$132.75
+ID07407,2022,India,Crackers,Whole Wheat,38,3.49,$132.62
+ID07408,2022,Nepal,Bars,Carrot,306,1.77,$541.62
+ID07409,2022,Nepal,Snacks,Potato Chips,28,1.68,$47.04
+ID07410,2022,New York,Bars,Bran,110,1.87,$205.70
+ID07411,2022,New York,Cookies,Oatmeal Raisin,51,2.84,$144.84
+ID07412,2022,Russia,Bars,Carrot,52,1.77,$92.04
+ID07413,2022,Russia,Crackers,Whole Wheat,28,3.49,$97.72
+ID07414,2021,India,Bars,Carrot,136,1.77,$240.72
+ID07415,2021,India,Crackers,Whole Wheat,42,3.49,$146.58
+ID07416,2021,Nepal,Cookies,Chocolate Chip,75,1.87,$140.25
+ID07417,2021,New York,Bars,Bran,72,1.87,$134.64
+ID07418,2021,New York,Cookies,Oatmeal Raisin,56,2.84,$159.04
+ID07419,2021,Russia,Bars,Bran,51,1.87,$95.37
+ID07420,2021,Russia,Snacks,Potato Chips,31,1.68,$52.08
+ID07421,2021,India,Bars,Bran,56,1.87,$104.72
+ID07422,2021,India,Cookies,Oatmeal Raisin,137,2.84,$389.08
+ID07423,2021,Nepal,Cookies,Chocolate Chip,107,1.87,$200.09
+ID07424,2021,New York,Bars,Carrot,24,1.77,$42.48
+ID07425,2021,New York,Crackers,Whole Wheat,30,3.49,$104.70
+ID07426,2021,Russia,Cookies,Chocolate Chip,70,1.87,$130.90
+ID07427,2021,India,Cookies,Arrowroot,31,2.18,$67.58
+ID07428,2021,India,Bars,Carrot,109,1.77,$192.93
+ID07429,2021,India,Crackers,Whole Wheat,21,3.49,$73.29
+ID07430,2021,Nepal,Cookies,Chocolate Chip,80,1.87,$149.60
+ID07431,2021,New York,Bars,Bran,75,1.87,$140.25
+ID07432,2021,New York,Cookies,Oatmeal Raisin,74,2.84,$210.16
+ID07433,2021,Russia,Bars,Carrot,45,1.77,$79.65
+ID07434,2021,India,Cookies,Arrowroot,28,2.18,$61.04
+ID07435,2021,India,Bars,Carrot,143,1.77,$253.11
+ID07436,2021,India,Snacks,Pretzels,27,3.15,$85.05
+ID07437,2021,Nepal,Bars,Carrot,133,1.77,$235.41
+ID07438,2021,New York,Cookies,Arrowroot,110,2.18,$239.80
+ID07439,2021,New York,Cookies,Chocolate Chip,65,1.87,$121.55
+ID07440,2021,Russia,Bars,Bran,33,1.87,$61.71
+ID07441,2021,India,Cookies,Arrowroot,81,2.18,$176.58
+ID07442,2021,India,Bars,Carrot,77,1.77,$136.29
+ID07443,2021,India,Crackers,Whole Wheat,38,3.49,$132.62
+ID07444,2021,Nepal,Bars,Carrot,40,1.77,$70.80
+ID07445,2021,Nepal,Snacks,Potato Chips,114,1.68,$191.52
+ID07446,2021,New York,Cookies,Arrowroot,224,2.18,$488.32
+ID07447,2021,New York,Bars,Carrot,141,1.77,$249.57
+ID07448,2021,New York,Crackers,Whole Wheat,32,3.49,$111.68
+ID07449,2021,Russia,Bars,Carrot,20,1.77,$35.40
+ID07450,2021,India,Cookies,Arrowroot,40,2.18,$87.20
+ID07451,2021,India,Cookies,Chocolate Chip,49,1.87,$91.63
+ID07452,2021,India,Crackers,Whole Wheat,46,3.49,$160.54
+ID07453,2021,Nepal,Bars,Carrot,39,1.77,$69.03
+ID07454,2021,Nepal,Snacks,Potato Chips,62,1.68,$104.16
+ID07455,2021,New York,Bars,Carrot,90,1.77,$159.30
+ID07456,2021,Russia,Cookies,Arrowroot,103,2.18,$224.54
+ID07457,2021,Russia,Cookies,Oatmeal Raisin,32,2.84,$90.88
+ID07458,2021,India,Bars,Bran,66,1.87,$123.42
+ID07459,2021,India,Cookies,Oatmeal Raisin,97,2.84,$275.48
+ID07460,2021,Nepal,Bars,Carrot,30,1.77,$53.10
+ID07461,2021,Nepal,Snacks,Potato Chips,29,1.68,$48.72
+ID07462,2021,New York,Bars,Carrot,92,1.77,$162.84
+ID07463,2021,Russia,Cookies,Arrowroot,139,2.18,$303.02
+ID07464,2021,Russia,Cookies,Oatmeal Raisin,29,2.84,$82.36
+ID07465,2021,India,Bars,Banana,30,2.27,$68.10
+ID07466,2021,India,Cookies,Chocolate Chip,36,1.87,$67.32
+ID07467,2021,India,Crackers,Whole Wheat,41,3.49,$143.09
+ID07468,2021,Nepal,Bars,Carrot,44,1.77,$77.88
+ID07469,2021,Nepal,Snacks,Potato Chips,29,1.68,$48.72
+ID07470,2021,New York,Cookies,Arrowroot,237,2.18,$516.66
+ID07471,2020,New York,Cookies,Chocolate Chip,65,1.87,$121.55
+ID07472,2020,Russia,Cookies,Arrowroot,83,2.18,$180.94
+ID07473,2020,India,Cookies,Arrowroot,32,2.18,$69.76
+ID07474,2020,India,Bars,Carrot,63,1.77,$111.51
+ID07475,2020,India,Snacks,Pretzels,29,3.15,$91.35
+ID07476,2020,Nepal,Bars,Bran,77,1.87,$143.99
+ID07477,2020,Nepal,Cookies,Oatmeal Raisin,80,2.84,$227.20
+ID07478,2020,New York,Bars,Carrot,102,1.77,$180.54
+ID07479,2020,New York,Crackers,Whole Wheat,31,3.49,$108.19
+ID07480,2020,Russia,Bars,Carrot,56,1.77,$99.12
+ID07481,2020,India,Cookies,Arrowroot,52,2.18,$113.36
+ID07482,2020,India,Bars,Carrot,51,1.77,$90.27
+ID07483,2020,India,Snacks,Potato Chips,24,1.68,$40.32
+ID07484,2020,Nepal,Cookies,Arrowroot,58,2.18,$126.44
+ID07485,2020,Nepal,Cookies,Chocolate Chip,34,1.87,$63.58
+ID07486,2020,New York,Bars,Carrot,34,1.77,$60.18
+ID07487,2020,New York,Snacks,Potato Chips,21,1.68,$35.28
+ID07488,2020,Russia,Cookies,Oatmeal Raisin,29,2.84,$82.36
+ID07489,2020,India,Bars,Carrot,68,1.77,$120.36
+ID07490,2020,India,Snacks,Pretzels,31,3.15,$97.65
+ID07491,2020,Nepal,Cookies,Arrowroot,30,2.18,$65.40
+ID07492,2020,Nepal,Cookies,Chocolate Chip,232,1.87,$433.84
+ID07493,2020,New York,Bars,Bran,68,1.87,$127.16
+ID07494,2020,New York,Cookies,Oatmeal Raisin,97,2.84,$275.48
+ID07495,2020,Russia,Bars,Bran,86,1.87,$160.82
+ID07496,2020,Russia,Snacks,Potato Chips,41,1.68,$68.88
+ID07497,2020,India,Bars,Carrot,93,1.77,$164.61
+ID07498,2020,India,Snacks,Potato Chips,47,1.68,$78.96
+ID07499,2020,Nepal,Bars,Carrot,103,1.77,$182.31
+ID07500,2020,Nepal,Snacks,Potato Chips,33,1.68,$55.44
+ID07501,2020,New York,Bars,Bran,57,1.87,$106.59
+ID07502,2020,New York,Cookies,Oatmeal Raisin,65,2.84,$184.60
+ID07503,2020,Russia,Bars,Carrot,118,1.77,$208.86
+ID07504,2020,India,Cookies,Arrowroot,36,2.18,$78.48
+ID07505,2020,India,Cookies,Oatmeal Raisin,123,2.84,$349.32
+ID07506,2020,Nepal,Bars,Carrot,90,1.77,$159.30
+ID07507,2020,Nepal,Crackers,Whole Wheat,21,3.49,$73.29
+ID07508,2020,New York,Bars,Carrot,48,1.77,$84.96
+ID07509,2020,New York,Snacks,Potato Chips,24,1.68,$40.32
+ID07510,2020,Russia,Cookies,Chocolate Chip,67,1.87,$125.29
+ID07511,2020,India,Bars,Bran,27,1.87,$50.49
+ID07512,2020,India,Cookies,Oatmeal Raisin,129,2.84,$366.36
+ID07513,2020,Nepal,Cookies,Arrowroot,77,2.18,$167.86
+ID07514,2020,Nepal,Cookies,Chocolate Chip,58,1.87,$108.46
+ID07515,2020,New York,Bars,Bran,47,1.87,$87.89
+ID07516,2020,New York,Cookies,Oatmeal Raisin,33,2.84,$93.72
+ID07517,2020,Russia,Cookies,Chocolate Chip,82,1.87,$153.34
+ID07518,2020,India,Bars,Carrot,58,1.77,$102.66
+ID07519,2019,India,Snacks,Pretzels,30,3.15,$94.50
+ID07520,2019,Nepal,Cookies,Chocolate Chip,43,1.87,$80.41
+ID07521,2019,New York,Bars,Carrot,84,1.77,$148.68
+ID07522,2019,Russia,Cookies,Arrowroot,36,2.18,$78.48
+ID07523,2019,Russia,Cookies,Oatmeal Raisin,44,2.84,$124.96
+ID07524,2019,India,Bars,Bran,27,1.87,$50.49
+ID07525,2019,India,Cookies,Oatmeal Raisin,120,2.84,$340.80
+ID07526,2019,India,Crackers,Whole Wheat,26,3.49,$90.74
+ID07527,2019,Nepal,Bars,Carrot,73,1.77,$129.21
+ID07528,2019,New York,Bars,Bran,38,1.87,$71.06
+ID07529,2019,New York,Cookies,Oatmeal Raisin,40,2.84,$113.60
+ID07530,2019,Russia,Bars,Carrot,41,1.77,$72.57
+ID07531,2019,India,Bars,Banana,27,2.27,$61.29
+ID07532,2019,India,Cookies,Chocolate Chip,38,1.87,$71.06
+ID07533,2019,India,Crackers,Whole Wheat,34,3.49,$118.66
+ID07534,2019,Nepal,Bars,Bran,65,1.87,$121.55
+ID07535,2019,Nepal,Cookies,Oatmeal Raisin,60,2.84,$170.40
+ID07536,2019,New York,Cookies,Arrowroot,37,2.18,$80.66
+ID07537,2019,New York,Cookies,Chocolate Chip,40,1.87,$74.80
+ID07538,2019,Russia,Bars,Bran,26,1.87,$48.62
+ID07539,2019,India,Bars,Banana,22,2.27,$49.94
+ID07540,2019,India,Cookies,Chocolate Chip,32,1.87,$59.84
+ID07541,2019,India,Crackers,Whole Wheat,23,3.49,$80.27
+ID07542,2019,Nepal,Cookies,Arrowroot,20,2.18,$43.60
+ID07543,2019,Nepal,Cookies,Chocolate Chip,64,1.87,$119.68
+ID07544,2019,New York,Bars,Carrot,71,1.77,$125.67
+ID07545,2019,Russia,Cookies,Arrowroot,90,2.18,$196.20
+ID07546,2019,Russia,Cookies,Oatmeal Raisin,38,2.84,$107.92
+ID07547,2019,India,Bars,Carrot,55,1.77,$97.35
+ID07548,2019,India,Snacks,Pretzels,22,3.15,$69.30
+ID07549,2019,Nepal,Bars,Carrot,34,1.77,$60.18
+ID07550,2019,New York,Bars,Bran,39,1.87,$72.93
+ID07551,2019,New York,Cookies,Oatmeal Raisin,41,2.84,$116.44
+ID07552,2019,Russia,Bars,Carrot,41,1.77,$72.57
+ID07553,2019,India,Cookies,Arrowroot,136,2.18,$296.48
+ID07554,2019,India,Bars,Carrot,25,1.77,$44.25
+ID07555,2019,India,Snacks,Pretzels,26,3.15,$81.90
+ID07556,2019,Nepal,Bars,Bran,50,1.87,$93.50
+ID07557,2019,Nepal,Cookies,Oatmeal Raisin,79,2.84,$224.36
+ID07558,2019,New York,Bars,Carrot,30,1.77,$53.10
+ID07559,2019,New York,Snacks,Potato Chips,20,1.68,$33.60
+ID07560,2019,Russia,Bars,Carrot,49,1.77,$86.73
+ID07561,2019,India,Cookies,Arrowroot,40,2.18,$87.20
+ID07562,2019,India,Bars,Carrot,31,1.77,$54.87
+ID07563,2019,India,Snacks,Pretzels,21,3.15,$66.15
+ID07564,2019,Nepal,Bars,Bran,43,1.87,$80.41
+ID07565,2019,Nepal,Cookies,Oatmeal Raisin,47,2.84,$133.48
+ID07566,2019,New York,Cookies,Arrowroot,175,2.18,$381.50
+ID07567,2019,New York,Cookies,Chocolate Chip,23,1.87,$43.01
+ID07568,2019,Russia,Bars,Carrot,40,1.77,$70.80
+ID07569,2019,India,Cookies,Arrowroot,87,2.18,$189.66
+ID07570,2019,India,Bars,Carrot,43,1.77,$76.11
+ID07571,2019,India,Crackers,Whole Wheat,30,3.49,$104.70
+ID07572,2019,Nepal,Bars,Carrot,35,1.77,$61.95
+ID07573,2019,New York,Bars,Bran,57,1.87,$106.59
+ID07574,2019,New York,Snacks,Potato Chips,25,1.68,$42.00
+ID07575,2019,Russia,Cookies,Chocolate Chip,24,1.87,$44.88
+ID07576,2019,India,Bars,Bran,83,1.87,$155.21
+ID07577,2019,India,Cookies,Oatmeal Raisin,124,2.84,$352.16
+ID07578,2019,Nepal,Bars,Carrot,137,1.77,$242.49
+ID07579,2019,New York,Cookies,Arrowroot,146,2.18,$318.28
+ID07580,2018,New York,Cookies,Chocolate Chip,34,1.87,$63.58
+ID07581,2018,Russia,Bars,Carrot,20,1.77,$35.40
+ID07582,2018,India,Cookies,Arrowroot,139,2.18,$303.02
+ID07583,2018,India,Cookies,Chocolate Chip,211,1.87,$394.57
+ID07584,2018,India,Crackers,Whole Wheat,20,3.49,$69.80
+ID07585,2018,Nepal,Bars,Bran,42,1.87,$78.54
+ID07586,2018,Nepal,Cookies,Oatmeal Raisin,100,2.84,$284.00
+ID07587,2018,New York,Bars,Carrot,38,1.77,$67.26
+ID07588,2018,New York,Crackers,Whole Wheat,25,3.49,$87.25
+ID07589,2018,Russia,Cookies,Chocolate Chip,96,1.87,$179.52
+ID07590,2018,India,Cookies,Arrowroot,34,2.18,$74.12
+ID07591,2018,India,Cookies,Chocolate Chip,245,1.87,$458.15
+ID07592,2018,India,Crackers,Whole Wheat,30,3.49,$104.70
+ID07593,2018,Nepal,Bars,Bran,30,1.87,$56.10
+ID07594,2018,Nepal,Cookies,Oatmeal Raisin,44,2.84,$124.96
